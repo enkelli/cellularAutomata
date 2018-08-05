@@ -116,7 +116,7 @@ to allow rendering the entire grid.
 ### Contributing
 
 Please send a PR to create more Cellular Automata by using an existing cellular automata file
-(for example, `Seeds`(https://github.com/bollu/cellularAutomata/blob/master/src/Seeds.hs)).
+(for example, `Seeds`(https://github.com/bollu/cellularAutomata/blob/master/app/Seeds.hs)).
 
 
 If someone knows how to make GIF rendering faster, that would be of great help as well!
